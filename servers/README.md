@@ -1,0 +1,1 @@
+Create the CSV File to query all your Gameservers. The list of gamecode is listed in [GitHub](https://github.com/gamedig/node-gamedig/blob/master/GAMES_LIST.md)
